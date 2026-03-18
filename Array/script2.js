@@ -11,14 +11,14 @@
 // }
 // filterrange(arr,a,b);
 
-let arr=[5,3,2,1]
-function range(arr,value1,value2){
-for(let i=0;i<arr.length;i++)
-{
-    if(value1>=arr[i] || value2<=arr[i]){
-    arr.splice(i,1)
-    }
-} 
-} 
-range(arr,1,4)
-alert(arr)
+// let arr=[5,3,2,1]
+// function range(arr,value1,value2){
+// for(let i=0;i<arr.length;i++)
+// {
+//     if(value1>=arr[i] || value2<=arr[i]){
+//     arr.splice(i,1)
+//     }
+// } 
+// } 
+// range(arr,1,4)
+// alert(arr)
