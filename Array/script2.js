@@ -11,7 +11,7 @@
 // }
 // filterrange(arr,a,b);
 
-// let arr=[5,3,2,1]
+// let arr=[5,3,6,1]
 // function range(arr,value1,value2){
 // for(let i=0;i<arr.length;i++)
 // {
