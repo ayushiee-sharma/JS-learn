@@ -18,7 +18,7 @@
 //    }
 
 // }
-//  let p1=new CreatePencil("nataraj",20,"natraj","black")
+//  let p1=new CreatePencil("nataraaj",20,"natraj","black")
 
 
 // extends
